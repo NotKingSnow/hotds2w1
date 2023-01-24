@@ -1,7 +1,7 @@
 q "**What character has the first line of dialogue in Game of Thrones?**"
 a "Ser Waymar Royce", "Waymar Royce", "Waymar", "Ser Waymar"
 
-q "**How many characters die in the cold open of S1E01 of Game of Thrones?"
+q "**How many characters die in the cold open of S1E01 of Game of Thrones?**"
 a "Two", "2"
 
 q "**Who is the first major character to have dialogue in S1E01 of Game of Thrones?**"
