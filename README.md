@@ -40,20 +40,22 @@ a "S01E05: The Wolf and the Lion", "S01E05", "S1E5", "S1E05", "Season 1 Episode 
 q "**What was Jory Cassel's role for House Stark and Winterfell?**"
 a "Captain of the Guards"
 
-q
-a
+q "**How many different characters sit on the Iron Throne during Season One of Game of Thrones?**"
+a "Three", "3"
 
-q
-a
+q "**How many men does Ned Stark tell Lord Beric Dondarrion to assemble to ride to Ser Gregor Clegane's Keep?**"
+a "One-Hundred", "One Hundred", "100"
 
-q
-a
+q "**What was the quote?: The last sentence Viserys Targaryen hears before his death in Game of Thrones?**"
+a "A crown for a king.", "A crown for a king"
 
-q
-a
+q "**Finish the quote!: "You grew up with actors. You learned their craft, you learned it well. But I grew up with soliders. I learned how to ..." (5 words)**"
+a "die a long time ago.", "die a long time ago"
 
-q
-a
+q "**Name the character!**"
+a "Mord"
+i "https://i.imgur.com/k76k2yg.jpg"
 
-q
-a
+q "**Name the character!**"
+a "Yoren"
+i "https://i.imgur.com/mfyG9HY.jpg"
