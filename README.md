@@ -119,32 +119,32 @@ a "Ser Loras Tyrell", "Ser Loras", "Loras Tyrell", "Loras"
 q "**Which member of the Small Council tells Cersei about Tyrion's plans to send Myrcella to Dorne?**"
 a "Grand Maester Pycelle", "Maester Pycelle", "Pycelle"
 
-q
-a
+q "**Where was Talisa Maegyr from before she came to Westeros?**"
+a "Volantis"
 
-q
-a
+q "**Finish the quote!: 'A man without friends is a ... (3 words)**"
+a "man without power.", "man without power"
 
-q
-a
+q "**The desert around Qarth is also known by what name?**"
+a "The Garden of Bones", "Garden of Bones"
 
-q
-a
+q "**In what episode does the first of the Five Kings die?**"
+a "S02E05: The Ghost of Harrenhal", "S02E05", "S2E5", "S2E05", "Season 2 Episode 5", "S2Ep5", "S2 Ep5", "2x5", "2x05"
 
-q
-a
+q "Who informs Tyrion that Cersei has commissioned the Alchemists Guild to create wildfire?**"
+a "Lancel Lannister", "Lancel"
 
-q
-a
+q "**In Season Two, How many men did Ser Rodrik Cassel take to Torrhen's Square?**"
+a "Two-hundred", "200", "two hundred"
 
-q
-a
+q "**Who said it?: 'Gods help you Theon Greyjoy; now you are truly lost.'**"
+a "Ser Rodrik Cassel", "Ser Rodrik", "Rodrik Cassel", "Rodrik"
 
-q
-a
+q "**What is the second name that Arya Stark gives to Jaqen H'ghar?**"
+a "Ser Amory Lorch", "Amory Lorch", "Amory", "Lorch"
 
-q
-a
+q "**Who does Tyrion Lannister send back to the Red Keep prior to the beginning of the riot in Season 2 Episode 6?**"
+a "Prince Tommen Baratheon", "Prince Tommen", "Tommen", "Tommen Baratheon
 
 q
 a
