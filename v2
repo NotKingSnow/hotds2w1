@@ -146,32 +146,39 @@ a "Ser Amory Lorch", "Amory Lorch", "Amory", "Lorch"
 q "**Who does Tyrion Lannister send back to the Red Keep prior to the beginning of the riot in Season 2 Episode 6?**"
 a "Prince Tommen Baratheon", "Prince Tommen", "Tommen", "Tommen Baratheon
 
-q
-a
+q "**While speaking with Arya Stark, Tywin Lannister says how many men could have marched on Harrenhal and been repelled?**"
+a "One-million", "one million", "1mil", "1 million"
 
-q
-a
+q "**Name the character!**"
+a "Xaro Xhoan Daxos", "Xaro"
+i "https://i.imgur.com/NMkvIKQ.jpg"
 
-q
-a
+q "**At whose wedding did Alton Lannister squire for Jaime Lannister?**"
+a "Ser Willem Frey", "Willem Frey", "Willem"
 
-q
-a
+q "**Who does Tywin Lannister leave to hold a garrison at Harrenhal?**"
+a "Ser Gregor Clegane", "Gregor Clegane", "Ser Gregor", "The Mountain", "Gregor"
 
-q
-a
+q "**What is the name of the book, written by Archmaester Ch'vyalthan, that Tyrion Lannister is reading in S02E08?**"
+a "An History of the Great Sieges of Westeros", "A History of the Great Sieges of Westeros", "History of the Great Sieges of Westeros"
 
-q
-a
+q "**What is the name of Talisa Stark's book counterpart?**"
+a "Queen Jeyne Westerling", "Jeyne Westerling", "Jeyne"
 
-q
-a
+q "**What is the name of the blade King Joffrey Baratheon takes into battle at the Blackwater?**"
+a "Hearteater", "Heart-eater", "Heart eater"
 
-q
-a
+q "**Finish the quote!: 'Come with me and ... (3 words)" 
+a "take this city!", "take this city.", "take this city"
 
-q
-a
+q "**Which member of the Kingsguard attempts to assassinate Tyrion Lannister at the Battle of the Blackwater?**"
+a "Ser Mandon Moore", "Mandon Moore", "Mandon"
 
-q
-a
+q "**While being questioned by the Northern soldiers, Jaime Lannister claims to be from where?**"
+a "Ashemark"
+
+q "**Who mercy kills Maester Luwin in S02E10?**"
+a "Osha"
+
+q "**Who is the last named character seen on-screen in Season Two of Game of Thrones?**"
+a "Samwell Tarly", "Samwell", "Sam"
