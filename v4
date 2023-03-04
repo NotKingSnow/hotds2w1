@@ -38,7 +38,7 @@ q "**Arya Stark overhears Varys and Illyrio Mopatis talking about her father in 
 a "S01E05: The Wolf and the Lion", "S01E05", "S1E5", "S1E05", "Season 1 Episode 5", "S1Ep5", "1x5", "1x05"
 
 q "**What was Jory Cassel's role for House Stark and Winterfell?**"
-a "Captain of the Guards"
+a "Captain of the Guard", "Captain of the Guards"
 
 q "**How many different characters sit on the Iron Throne during Season One of Game of Thrones?**"
 a "Three", "3"
@@ -47,7 +47,7 @@ q "**How many men does Ned Stark tell Lord Beric Dondarrion to assemble to ride 
 a "One-Hundred", "One Hundred", "100"
 
 q "**What was the quote?: The last sentence Viserys Targaryen hears before his death in Game of Thrones?**"
-a "A crown for a king.", "A crown for a king"
+a "A crown for king", "A crown for a king", "A crown for a king.", "A crown for king."
 
 q "**Finish the quote!: "You grew up with actors. You learned their craft, you learned it well. But I grew up with soliders. I learned how to ..." (5 words)**"
 a "die a long time ago.", "die a long time ago"
@@ -125,13 +125,13 @@ a "Volantis"
 q "**Finish the quote!: 'A man without friends is a ... (3 words)**"
 a "man without power.", "man without power"
 
-q "**The desert around Qarth is also known by what name?**"
+q "**The area of desert outside Qarth is also known by what name?**"
 a "The Garden of Bones", "Garden of Bones"
 
 q "**In what episode does the first of the Five Kings die?**"
 a "S02E05: The Ghost of Harrenhal", "S02E05", "S2E5", "S2E05", "Season 2 Episode 5", "S2Ep5", "S2 Ep5", "2x5", "2x05"
 
-q "Who informs Tyrion that Cersei has commissioned the Alchemists Guild to create wildfire?**"
+q "**Who informs Tyrion that Cersei has commissioned the Alchemists Guild to create wildfire?**"
 a "Lancel Lannister", "Lancel"
 
 q "**In Season Two, How many men did Ser Rodrik Cassel take to Torrhen's Square?**"
@@ -168,7 +168,7 @@ a "Queen Jeyne Westerling", "Jeyne Westerling", "Jeyne"
 q "**What is the name of the blade King Joffrey Baratheon takes into battle at the Blackwater?**"
 a "Hearteater", "Heart-eater", "Heart eater"
 
-q "**Finish the quote!: 'Come with me and ... (3 words)" 
+q "**Finish the quote!: 'Come with me and ... (3 words)**" 
 a "take this city!", "take this city.", "take this city"
 
 q "**Which member of the Kingsguard attempts to assassinate Tyrion Lannister at the Battle of the Blackwater?**"
